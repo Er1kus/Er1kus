@@ -1,6 +1,8 @@
-# About me:
-Hi, I am Erik
-I am junior automation QA
+## About me:
+Hi, I am Erik.
+I am junior automation QA.
+I extremely motivated for career change goal. I have completed testing courses from Netology and I want to fully apply my knowledge and potential. I have little experience in this field, but you may be interested in my previous experience and domain knowledge in the field of procurement and banking.
+I am distinguished by flexibility, analytical thinking, attention to detail, high adaptability to changes.
 
 📫How to reach me:
 <div id="badges">
@@ -10,6 +12,18 @@ I am junior automation QA
   <a href="https://t.me/Erik_Ham">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
+  
+  ## Portfolio
+  [Graduate work](https://github.com/Er1kus/Diplom_Marrakesh)
+  
+  - As part of the graduation project, a web service testing automation plan for travelers was created.
+  - The research testing of the application was carried out. 
+  - Using Docker, a test environment with support for 2 DBMS (MySQL and PostgreSQL) has been configured and deployed. 
+  - More than 60 test scenarios were automated, Junit 5, Rest Assured, Selenide, Faker, Lombok libraries were used. 
+  - There are 13 bug reports. 
+  - A report has been compiled on the results of automation using Allure.
+  
+  [More of my projects](https://github.com/Er1kus?tab=repositories) 
 
 ## 💻 Tech Stack:
 <div>
@@ -28,6 +42,7 @@ I am junior automation QA
   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="selenium" alt="selenium" width="40" height="40"/>&nbsp;
   <img src="https://github.com/gerardpuigl/Technology-Stack-Icons/blob/main/Logos/postman.svg" title="postman" alt="postman" width="40" height="40"/>&nbsp;
   <img src="https://github.com/t0kke/FullWebProject/blob/master/files/icons/Allure_Report.png?ysclid=l9dbezpnsn744808962" title="allure" alt="allure" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/file-icons/icons/blob/master/svg/Appveyor.svg?ysclid=l9dchtihxp566007139" title="Appveyor" alt="Appveyor" width="40" height="40"/>&nbsp;
 </div>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Er1kus)](https://git.io/streak-stats)
