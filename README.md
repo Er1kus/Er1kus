@@ -25,7 +25,7 @@ I am distinguished by flexibility, analytical thinking, attention to detail, hig
   
   [More of my projects](https://github.com/Er1kus?tab=repositories) 
   ## Certificates:
-  [certificate final QA.pdf](https://github.com/Er1kus/Er1kus/files/9805059/certificate.final.QA.pdf)
+  [certificate final QA.pdf](https://github.com/Er1kus/Er1kus/blob/main/Cert/certificate%20final%20QA.pdf)
 
 
 ## 💻 Tech Stack:
