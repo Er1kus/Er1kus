@@ -13,7 +13,7 @@ I am distinguished by flexibility, analytical thinking, attention to detail, hig
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   
-  ## Portfolio
+  ## Portfolio:
   [Graduate work](https://github.com/Er1kus/Diplom_Marrakesh)
   
   - As part of the graduation project, a web service testing automation plan for travelers was created.
@@ -24,6 +24,9 @@ I am distinguished by flexibility, analytical thinking, attention to detail, hig
   - A report has been compiled on the results of automation using Allure.
   
   [More of my projects](https://github.com/Er1kus?tab=repositories) 
+  ## Certificates:
+  [certificate final QA.pdf](https://github.com/Er1kus/Er1kus/files/9805059/certificate.final.QA.pdf)
+
 
 ## 💻 Tech Stack:
 <div>
