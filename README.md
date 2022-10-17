@@ -2,10 +2,11 @@
 Hi, I am Erik 👋
 I am junior automation QA
 
-📫How to reach me: goryaev.erik@gmail.com
-[![image](https://user-images.githubusercontent.com/102648313/196270847-1d5bfb97-4fd4-438f-bafd-059072d2f3f1.png)](goryaev.erik@gmail.com)
-
-
+📫How to reach me:
+<div id="badges">
+  <a href="goryaev.erik@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
 
 ## 💻 Tech Stack:
 <!--
