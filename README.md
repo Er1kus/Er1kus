@@ -29,6 +29,10 @@ I am junior automation QA
   <img src="https://github.com/gerardpuigl/Technology-Stack-Icons/blob/main/Logos/postman.svg" title="postman" alt="postman" width="40" height="40"/>&nbsp;
   <img src="https://github.com/t0kke/FullWebProject/blob/master/files/icons/Allure_Report.png?ysclid=l9dbezpnsn744808962" title="allure" alt="allure" width="40" height="40"/>&nbsp;
 </div>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Er1kus)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Er1kus)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Er1kus/Er1kus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
